@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+}
+.navbar{
+    height: 100px;
+    color: azure;
+    background-color: rgb(17, 42, 42);
+    margin-top:-1px;
+    border-radius: 0px;
+    border: 10px solid green;
+}
+
+.btn{
+    margin-top: 9px;
+}
+
+.slideImage{
+    height: 400px !important;
+    width: 100%;
+
+}
+.filter{
+    height: 200px;
+    background-color: yellow;
+    border-radius: 200px;
+    text-align: center;
+}
+
+.more{
+   
+
+}
